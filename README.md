@@ -1,2 +1,2 @@
 # gitTraining
-Basic repositoryfor trying out things
+Test repository for trying out things
