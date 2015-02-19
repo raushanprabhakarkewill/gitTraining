@@ -1,4 +1,4 @@
 first file on upstream
 edit to file1 on master
 another change
-local stuff added
+merged line
